@@ -1,7 +1,7 @@
 # The AI Problem Nobody Warned Senior Developers About
 
 ## If you are reading this: it is the script of my latest YouTube Vidio
-**[Watch this video here : https://youtu.be/WTSVuBBDv8o](https://youtu.be/WTSVuBBDv8o)**
+**[**Watch this video here : https://youtu.be/WTSVuBBDv8o**](https://youtu.be/WTSVuBBDv8o)**
 
 ## 1. Introduction: Why Senior Developers Initially Struggled with AI Agents
 
